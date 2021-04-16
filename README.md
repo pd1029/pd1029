@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-
-**pd1029/pd1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+This is Prathmesh Deshmukh!
+I am from IIT Kharagpur.
 
 - 🔭 I’m currently working on Machine Learning/AI.
 - 🌱 I’m currently learning Software Development and DevOps
