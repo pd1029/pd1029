@@ -7,5 +7,4 @@ I am from IIT Kharagpur.
 - 👯 I’m looking to collaborate on tech/digital products.
 - 💬 Ask me about Machine Learning,Product Design, Softwares, Algorithms.
 - 📫 How to reach me: deshmukhprathmesh73@Gmail.com
-- 😄 Pronouns: Pratham
 - ⚡ Fun fact: I am passionate singer,guitarist.
